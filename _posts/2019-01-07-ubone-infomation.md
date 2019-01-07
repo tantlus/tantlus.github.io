@@ -13,7 +13,7 @@ author: tantlus
 
 ### `㈜유비원 Vision`
 
-## World Best Life Relation Management Leader
+> World Best Life Relation Management Leader
 
 --------------
 
