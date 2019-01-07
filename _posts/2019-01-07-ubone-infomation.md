@@ -11,11 +11,7 @@ author: tantlus
 ---
 
 
-### `㈜유비원 Vision`
-
 > World Best Life Relation Management Leader
-
-
 
 
   "진실된 노력은 결코 배신하지 않는다" 라는 신념을 가지고 빅데이터 분야(AI, TA, Chatbot)와 CRM과 BI분야에서 자체 FRAMEWORK 기반의 솔루션을 개발한지도 벌써 11년이라는 시간이 흘렀습니다.
