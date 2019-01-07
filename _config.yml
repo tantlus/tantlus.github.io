@@ -22,7 +22,7 @@ disqus_username:
 # Build settings
 markdown: kramdown
 #permalink: /:categories/:title/
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 
 # Posts settings
 future: true
