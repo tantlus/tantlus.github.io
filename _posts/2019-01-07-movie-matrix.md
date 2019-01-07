@@ -5,7 +5,7 @@ title:  "매트릭스 1,2,3 정주행!"
 crawlertitle: "matrix"
 summary: "matrix"
 date:   2019-01-07 20:09:47 +0700
-categories: movies
+categories: posts
 tags: ['movies']
 author: tantlus
 ---
