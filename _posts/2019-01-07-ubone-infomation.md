@@ -1,7 +1,7 @@
 ---
 bg: "ubone.jpg"
 layout: post
-title:  "㈜유비원 위치"
+title:  "㈜유비원"
 crawlertitle: "ubone"
 summary: "location"
 date:   2019-01-07 20:09:47 +0700
