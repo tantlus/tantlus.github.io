@@ -17,4 +17,4 @@ author: tantlus
 'World Best Life Relation Management Leader'
 
 
-[hompage link]: http://www.ubqone.com/main.do "Go ubone"
+[hompage]: http://www.ubqone.com/main.do
