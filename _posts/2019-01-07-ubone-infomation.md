@@ -1,5 +1,5 @@
 ---
-bg: "movie.jpg"
+bg: "ubone.jpg"
 layout: post
 title:  "㈜유비원 위치"
 crawlertitle: "ubone"
