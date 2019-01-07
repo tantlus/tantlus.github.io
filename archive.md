@@ -1,7 +1,7 @@
 ---
 bg: "tag.jpg"
 layout: page
-permalink: /:categories/:year/
+permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
 summary: "Posts about jekyll"
